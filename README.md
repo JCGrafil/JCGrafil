@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Profile views](https://komarev.com/ghpvc/?username=JCGrafil&color=green)
 ### Little Info about me.
 
 - 🛠️ I’m currently studying BS Industrial Engineering at the Polytechnic University of the Philippines Sta. Rosa Campus
@@ -17,6 +17,6 @@
 
 ![462526912_483283714697162_7575718016058339940_n](https://github.com/user-attachments/assets/68b2dcd1-2ff3-4e6c-bbd6-46240bd67c85)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JCGrafil&layout=compact)
-![Profile views](https://komarev.com/ghpvc/?username=JCGrafil&color=green)
+
 
 
