@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Computer Hardware or about Gymstuffsss
 - 📫 How to reach me: You can reach me thru my personal email.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to workout!!![462526912_483283714697162_7575718016058339940_n](https://github.com/user-attachments/assets/b35b21e2-a0d4-4cbe-8ca6-731eda4a5d8c)
+- ⚡ Fun fact: I love to workout!!!
+![462526912_483283714697162_7575718016058339940_n](https://github.com/user-attachments/assets/68b2dcd1-2ff3-4e6c-bbd6-46240bd67c85)
 
 
