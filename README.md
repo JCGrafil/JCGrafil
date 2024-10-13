@@ -4,7 +4,7 @@
 
 - 🛠️ I’m currently studying BS Industrial Engineering at the Polytechnic University of the Philippines Sta. Rosa Campus
 - 🌱 I’m currently learning Basic Python and Basic Java. 
-- 🤝 I’m looking to collaborate on projects that will help a lot of people for free (e.g., Free websites that will take BMI, [Website](https://yourlink.com) that will analyze the calorie content of food for free, etc.).
+- 🤝 I’m looking to collaborate on projects that will help a lot of people for free (e.g., Free websites that will take BMI, website that will analyze the calorie content of food for free, etc.).
 - 📚 I’m looking for help with some of my homework in my Computer Programming subject.
 - 🖥️ Ask me about Computer Hardware or about Gym stuffsss
 - 📫 How to reach me: You can reach me through my personal email.
