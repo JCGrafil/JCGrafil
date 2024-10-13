@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ![Profile views](https://komarev.com/ghpvc/?username=JCGrafil&color=green)
 ![8da00a33-9af2-4ea9-871d-3665ec980a3b](https://github.com/user-attachments/assets/ced9561c-3752-4340-a857-262be240d91f)
 ### Little Info about me.
