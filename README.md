@@ -19,5 +19,23 @@
 ![462526912_483283714697162_7575718016058339940_n](https://github.com/user-attachments/assets/68b2dcd1-2ff3-4e6c-bbd6-46240bd67c85)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JCGrafil&layout=compact)
 
+# BMI Calculator
+
+This is a simple BMI calculator that allows you to input your body information and calculate your Body Mass Index.
+
+## Live Demo
+
+You can try the BMI calculator [here](https://jcgrafil.github.io/bmi-calculator/).
+
+## How to Use
+
+1. Enter your weight in kilograms.
+2. Enter your height in centimeters.
+3. Click the "Calculate BMI" button.
+4. Your BMI will be displayed along with a category indicating whether you are underweight, normal weight, overweight, or obese.
+
+## License
+
+This project is licensed under the MIT License.
 
 
