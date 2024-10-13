@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying BS Industrial Engineering at the Polytechnic University of the Philippines Sta. Rosa Campus
+## 🔭 I’m currently studying BS Industrial Engineering at the Polytechnic University of the Philippines Sta. Rosa Campus
 - 🌱 I’m currently learning Basic Python and Basic Java.
 - 👯 I’m looking to collaborate on projects that will help a lot of people for free (ex. Free websites that will take BMI, Website that will analyze the calorie content of a food for free,...etc. ).
 - 🤔 I’m looking for help with some of my homework in my Computer Programming subject.
