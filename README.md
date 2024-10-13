@@ -14,6 +14,7 @@
 - 🏋️‍♂️ I love working out and staying fit.
 - 🎧 Music lover: I can’t code without a good playlist.
 - 🛠️ I built my own PC!
+- 🖥️ I assemble 2nd-hand PC parts and sell them as system units.
 
 
 ![462526912_483283714697162_7575718016058339940_n](https://github.com/user-attachments/assets/68b2dcd1-2ff3-4e6c-bbd6-46240bd67c85)
