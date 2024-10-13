@@ -11,11 +11,12 @@ Here are some ideas to get you started:
 - 🖥️ Ask me about Computer Hardware or about Gym stuffsss
 - 📫 How to reach me: You can reach me through my personal email.
 - 👤 Pronouns: He/Him
-![462526912_483283714697162_7575718016058339940_n](https://github.com/user-attachments/assets/68b2dcd1-2ff3-4e6c-bbd6-46240bd67c85)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JCGrafil&layout=compact)
-### 🎉 Fun Facts
+  ### 🎉 Fun Facts
 - 🏋️‍♂️ I love working out and staying fit.
 - 🎧 Music lover: I can’t code without a good playlist.
 - 🛠️ I built my own PC!
+
+![462526912_483283714697162_7575718016058339940_n](https://github.com/user-attachments/assets/68b2dcd1-2ff3-4e6c-bbd6-46240bd67c85)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JCGrafil&layout=compact)
 
 
