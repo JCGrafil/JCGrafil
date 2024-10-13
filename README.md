@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-**JCGrafil/JCGrafil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Little Info about me.
 
 - 🛠️ I’m currently studying BS Industrial Engineering at the Polytechnic University of the Philippines Sta. Rosa Campus
 - 🌱 I’m currently learning Basic Python and Basic Java. 
